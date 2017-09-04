@@ -15,6 +15,9 @@ h6 {
   color: Gray;
   font-size: 21px;
 }
+video{
+  object-fit: contain;
+}
 #top_title {
   font-weight: normal;
   font-size: 50px;
